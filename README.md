@@ -1,6 +1,6 @@
-[这里](https://github.com/naibahq) 是 [naiba](https://github.com/naiba) 的一些不再维护的过往项目的列表。
+[这里](https://github.com/naibahq) 是 [naiba](https://github.com/naiba) 的一些不再维护的过往项目。
 
-## 过往项目
+## 历史项目
 
 - [proxyinabox](https://github.com/naibahq/proxyinabox) 📥Proxy in a box. 自动抓取、调度代理 IP。
 - [monica-fork](https://github.com/naibahq/monica-fork) 🧗 您的私人社交关系管家（阴历支持、登录查看附件）。
@@ -12,10 +12,10 @@
 - [nsparking](https://github.com/naibahq/nsparking) 修改 NS 即可批量转发、解析域名，多用户
 - [cook](https://github.com/naibahq/cook) 🍳 SSH 主机管理，分组，批量执行SSH。
 - [qiongbi](https://github.com/naibahq/qiongbi) :neckbeard: 穷逼捐赠系统 支付宝即时到账接口的在线留言捐赠
-- *blablabla...*
+- *blablabla ...*
 
 ## 版权声明
 
 <a href="http://www.wtfpl.net/"><img
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/WTFPL_badge.svg/300px-WTFPL_badge.svg.png"
-       width="80" height="15" alt="WTFPL" /></a>
+       height="66rem" alt="WTFPL" /></a>
