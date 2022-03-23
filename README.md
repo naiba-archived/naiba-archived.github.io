@@ -17,5 +17,5 @@
 ## 版权声明
 
 <a href="http://www.wtfpl.net/"><img
-       src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/WTFPL_badge.svg/300px-WTFPL_badge.svg.png"
        width="80" height="15" alt="WTFPL" /></a>
